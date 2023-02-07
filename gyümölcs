@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>gyümölcsök</title>
+</head>
+<body>
+    
+</body>
+</html>
+<ol>
+    <li>
+        <ol>
+            <ul type="I">
+            <li>alma</li>
+            <li>maracuja</li>
+            <li>narancs</li>
+            <li>kókusz</li>
+            <li>eper</li>
+        </ol>
+    </li>
+    <li>
+        <ol>
+            <ul type="I">
+            <li>pomelo</li>
+            <li>sárkánygyönölcs</li>
+            <li>mandarin</li>
+            <li>cseresznye</li>
+            <li>Ananász</li>
+        </ol>
+    </li>
+    <li>
+        <ol>
+            <ul type="I">
+            <li>mangón</li>
+            <li>kókusz</li>
+            <li>körte</li>
+            <li>banán</li>
+            <li>licsi</li>
+        </ol>
+    </li>
+</ol>
+	
